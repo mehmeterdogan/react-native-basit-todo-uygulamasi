@@ -13,7 +13,7 @@
 
 <p>
   Örnek projeyi çalıştırabilmek için  <br><br>
-  Öncelikle grekli paketleri kurun<br>
+  Öncelikle gerekli paketleri kurun<br>
   <code>
    npm install
   </code> <br>or <br>
