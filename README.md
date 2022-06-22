@@ -30,5 +30,5 @@
   </code>
 </p>
 <p>
-  Projeyi çalıştırken bir hata ile karşılaşmanız durumunda bana sosyal medya kanalları aracılığıyla ulaşabilirsiniz...
+  Projeyi çalıştırırken bir hata ile karşılaşmanız durumunda bana sosyal medya kanalları aracılığıyla ulaşabilirsiniz...
 </p>
