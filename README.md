@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, ben Mehmet ERDOĞAN</h1>
-<h3 align="center">Türkiye'den tutkulu bir fullstack geliştiricisi</h3>
+<h1 align="center">Merhabalar 👋, ben Mehmet ERDOĞAN</h1>
+<h3 align="center">FullStack Developer</h3>
 
 <h3 align="left">Benimle iletişime geçin: </h3>
 <p align="left">
@@ -32,3 +32,15 @@
 <p>
   Projeyi çalıştırırken bir hata ile karşılaşmanız durumunda bana sosyal medya kanalları aracılığıyla ulaşabilirsiniz...
 </p>
+
+
+  
+
+
+
+https://user-images.githubusercontent.com/29049098/175132402-accb0c2b-1210-4f83-90e5-c9dcca094c2b.mp4
+
+
+
+
+
